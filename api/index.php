@@ -1,3 +1,3 @@
 <?php 
-    require './paisesMoneda.php';
+    require 'paisesMoneda.php';
 ?>
